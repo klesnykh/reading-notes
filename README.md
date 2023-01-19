@@ -15,14 +15,14 @@ Think about any roadblocks you may have in your life that hold you back from get
 ## 3 reminders to stay in a growth mindset:
 
   > 1. Take a step/some time away from the problem. 
-  
-      - Remind yourself this problem helps you be a better person in some way. 
-      - Every moment is a learning opportunity!
-      
+  >
+  >    - Remind yourself this problem helps you be a better person in some way. 
+  >    - Every moment is a learning opportunity!
+  >    
   > 2. Take time every day to think about bettering yourself, wether that be the Bible, journaling, meditation, yoga, etc. 
-  
-      - Ask youself the questions listed in the **[Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)**
-      
+  >
+  >    - Ask youself the questions listed in the **[Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)**
+  >    
   > 3. Try learning something outside of just work! 
-  
-      - Preferably something active. The competetive mindset you'll get trying to better yourself in a sport, for example, will give you that edge as well trying to better yourself in other areas of your life. Competetiveness is great if applied correctly
+  >
+  >    - Preferably something active. The competetive mindset you'll get trying to better yourself in a sport, for example, will give you that edge as well trying to better yourself in other areas of your life. Competetiveness is great if applied correctly
