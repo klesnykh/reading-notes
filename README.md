@@ -2,7 +2,7 @@
 
 ---
 
-## What is a Growth Mindset?
+## What is a Growth Mindset? 
 
 The best, or should I say "easiest" way to explain a growth mindset is just a positive mindset. 
 
@@ -26,3 +26,5 @@ Think about any roadblocks you may have in your life that hold you back from get
   > 3. Try learning something outside of just work! 
   >
   >    - Preferably something active. The competetive mindset you'll get trying to better yourself in a sport, for example, will give you that edge as well trying to better yourself in other areas of your life. Competetiveness is great if applied correctly
+
+My name is Kirill Lesnykh, otherwise known as ***Kirk***. If you'd like to find out a bit more about me go ahead and [click here](https://github.com/klesnykh) to view my github portfolio
