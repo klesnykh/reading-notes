@@ -9,3 +9,9 @@
 - committing a file: git commit -m "made changes x, y, z"
 - using remote repositories allows you to make changes to your project on the github website
 - the more you use it, the more familiar you will get with it
+
+
+
+- ACP: add, commit, push
+- git status tells you what changes you've made
+- 
