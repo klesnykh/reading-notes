@@ -1,4 +1,5 @@
 # [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
 ---
 
 - Git is a is a DVCS (I'm sure Ill figure out how this works fully later) that allows users to work together
@@ -10,8 +11,6 @@
 - using remote repositories allows you to make changes to your project on the github website
 - the more you use it, the more familiar you will get with it
 
-
-
 - ACP: add, commit, push
 - git status tells you what changes you've made
-- 
+-
