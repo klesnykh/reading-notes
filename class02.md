@@ -45,5 +45,5 @@
 - beware of spaces in file names, in order to make sure commands read files with spaces as a single command you need to use single quotations, or by putting a backslash in front of the spaces because backslashes nullify the meaning of the next character
 - hidden files just have an a . at the beginning, you can create hidden files by naming them starting with a .
 - you can make a file unhidden by removing the a . in the filename
-- [Terminal Cheat Sheet](https://github.com/klesnykh/reading-notes/terminal-cheatsheat)
-- 
+
+> [Terminal Cheat Sheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
