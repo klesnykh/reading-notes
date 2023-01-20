@@ -1,5 +1,7 @@
 # Class 01 Reading Assignment
 
+Why does learning markdown and github pages matter? Because to me it seems to be the easiest way to generate webpages, which is the basics of coding, and the teachers here at codefellows wouldn't have us learn it if it didn't serve a purpose for us in the future. I trust them with my future.
+
 - Good idea to bookmark the Mardown Basic Syntax, could come in handy
 - Markdown is basically a thing you can use to write HTML websites more easily because
 it translates what you wrote from markdown into HTML (from what I understand)
@@ -15,3 +17,6 @@ It's fairly simple to learn if you take the time to learn about what GitHub is, 
 GitHub Pages is, how to use them, etc. Our teacher provided us with links to Markdown
 syntax, how to master Markdown on GitHub, and a video on GitHub Pages as well. I can 
 give you these rescources if needed.
+
+## Things I want to know more about
+- What is this Table of Contents referred to in the assignment instructions?
