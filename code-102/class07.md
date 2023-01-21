@@ -23,7 +23,7 @@ function myFunction(a, b) {
 - Arithmetic - anything using addition, subtraction, decrement: +, -, *, **, /, %, ++, --
 - Assignment - adds a value to a variable, like +=, -=, *=, /=, %=, **=
 - Coparison - equal to, not equal to, etc: ==, ===, !=, !==, >, <, >=, <=, ?
-- Logical - logical and, logial or, logical not: &&, ||, !
+- Logical - logical and, logial or, logical not: &&, \|\|, !
 - Conditional - condition ? val1 : val2
 If condition is true, the operator has the value of val1. Otherwise it has the value of val2. You can use the conditional operator anywhere you would use a standard operator.
 - Type - typeof, instanceof
