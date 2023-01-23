@@ -29,27 +29,27 @@ And sometimes the code goes on for miles
 But man! Using this website is all smiles  
 
 2\. Not entirely sure about how html, css, .js are "parsed" in the browser, I just know that basically your browser asks for the html first, and then if the html has .css or .js files incorporated into it then it asks for those files again to have them work for the html  
-3/. You can find images online, google images for example  
-4/. for a string you use quotations vs a number you just write the number  
-5/. variables just hold value, they're important because then you can hold onto whatever value they are and use them again any time
+3\. You can find images online, google images for example  
+4\. for a string you use quotations vs a number you just write the number  
+5\. variables just hold value, they're important because then you can hold onto whatever value they are and use them again any time
 
 #### Introduction to HTML
 
-1/. Attibutes are used to add extra info/meaning/look to the element  
-2/. HTML element is composed of a opening tag, content and a closing tag  
-3/. The difference between an article and a section is articles wrap logical groups of related content and sections are used when you need 2 headers or footers are needed. I think you can group sections under articles  
-4/. A typical website can use a bunch of different elements. Some typical ones are body, header, paragraph, list, footer, etc.  
-5/. Metadata makes your site more user friendly, search engines can see what kind of metadata or if you even have metadata and determine how high up your page should be depending on user friendliness  
-6/. Using meta tag is the same way as using any other tag in the head. Start with meta, fill in the tag and close it with a greater than sign. Kind of like a source for a .js file  
+1\. Attibutes are used to add extra info/meaning/look to the element  
+2\. HTML element is composed of a opening tag, content and a closing tag  
+3\. The difference between an article and a section is articles wrap logical groups of related content and sections are used when you need 2 headers or footers are needed. I think you can group sections under articles  
+4\. A typical website can use a bunch of different elements. Some typical ones are body, header, paragraph, list, footer, etc.  
+5\. Metadata makes your site more user friendly, search engines can see what kind of metadata or if you even have metadata and determine how high up your page should be depending on user friendliness  
+6\. Using meta tag is the same way as using any other tag in the head. Start with meta, fill in the tag and close it with a greater than sign. Kind of like a source for a .js file  
 
 *How to Start to design a Website*  
-1/. the first step to designing a website is to draw out what you want it to look like and what it will do  
-2/. The most important question is what exactly do i want to accomplish?  
+1\. the first step to designing a website is to draw out what you want it to look like and what it will do  
+2\. The most important question is what exactly do i want to accomplish?  
 
 *Semantics*  
-1/. using an h1 element shows that it is the most important sentence in your website, the main sentence  
-2/. using semantic tage benefits us because we can understand what that code is there for and what it's doing  
+1\. using an h1 element shows that it is the most important sentence in your website, the main sentence  
+2\. using semantic tage benefits us because we can understand what that code is there for and what it's doing  
 
 *What is JavaScript*  
-1/. 2 things that require javascript on a webpage are controlling multimedia and animating images, and lots more  
-2/. You can add javascript to an html file via script tags inline or internally, or externally
+1\. 2 things that require javascript on a webpage are controlling multimedia and animating images, and lots more  
+2\. You can add javascript to an html file via script tags inline or internally, or externally
