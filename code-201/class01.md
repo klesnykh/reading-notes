@@ -17,16 +17,16 @@
 
 ### Getting Started
 
-\1.
-You want to go to a website
-In an effort to learn more about light
-Your browser requests the contents from the server
-And you being an observer
-Notice how when the DNS sends you the HTTP
+- 1.
+You want to go to a website  
+In an effort to learn more about light  
+Your browser requests the contents from the server  
+And you being an observer  
+Notice how when the DNS sends you the HTTP  
 The HTTP also asks for other stuff like the .css and the .js files
-Which are basically like the styles
-And sometimes the code goes on for miles
-But man! Using this website is all smiles
+Which are basically like the styles  
+And sometimes the code goes on for miles  
+But man! Using this website is all smiles  
 
 \2. not entirely sure about how html, css, .js are "parsed" in the browser, I just know that basically your browser asks for the html first, and then if the html has .css or .js files incorporated into it then it asks for those files again to have them work for the html
 \3. You can find images online, google images for example
