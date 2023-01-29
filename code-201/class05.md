@@ -12,4 +12,4 @@
 2\. You can change a bunch of things to give his blog some life/color: text size, font, can choose a variety of colors, can change the background color, can change the box colors and can even soften the corners of those boxes  
 3\. Things to consider: readability, browser support, general aesthetic of the page  
 4\. style turns italics on or off, weight sets how bold the text is, and size is self explanatory  
- 5\. You can use css to change the letter spacing by using letter-spacing:'' or chang the word spacing the same way  
+ 5\. You can use css to change the letter spacing by using letter-spacing:'' or change the word spacing the same way  
