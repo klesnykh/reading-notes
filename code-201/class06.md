@@ -10,3 +10,51 @@
 *DOM*  
 1\. The Document Object Model is the data representation of the objects that comprise the structure and content of a ducument on the web.  
 2\. The DOM allows programming languages to interact with the page, so it allows us to write code and make the page do what we want it to do.  
+
+<!-- /*
+3 steps to render to the DOM
+- 1. create an element
+declare a variable and then call createElement() and pass the html tag name as a string to createElement */
+let kittenArticle = document.createElement('article');
+
+/*
+- 2. give it content
+- 3. append it to the DOM, use appendChild() */
+profileContainer.appendChild(kittenArticle);
+
+// follow steps to create an h3 heading for a new element
+// h3
+let kittenH3 = document.createElement('h3');
+kittenH3.textContent = 'Jumper'; //gives content (step 2) to the h3 element
+kittenArticle.appendChild(kittenH3);
+
+// p
+let p = document.createElement('p');
+p.textContent = 'Jumper the cat is wonderful';
+kittenArticle.appendChild(p);
+
+// img
+let img = document.createElement('img');
+img.src = 'images/jumper.jpg';
+img.alt = 'Jumper is very cute';
+kittenArticle.appendChild(img);
+
+document.querySelector('article:nth-child(2) h3'); //this show <h3>Jumper</h3>
+
+let li = document.createElement('li');
+li.textContent = `6am: ${seattle.someValueInArray}`;
+
+let jumper = {
+    name: 'Jumper',
+    likes: ['catnip', 'food', 'string'],
+    renderList = function(){
+        let ul = document.createElement('ul');
+        
+        for (let i=0; i<this.likes.length; i++){
+            let li = document.createElement('li');
+            li.textContent = this.likes[0];
+            ul.appendChild(li);
+        }
+        
+    }
+} -->
