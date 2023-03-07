@@ -9,14 +9,14 @@
 6\. it replaces something in another system  
 7\. it does a partial update in another system  
 
-**Geocoding API**
+**Geocoding API**  
 1\. Yes  
 
-**Weather Bit API**
+**Weather Bit API**  
 1\. Yes  
 
-**Yelp API Docs**
+**Yelp API Docs**  
 1\. Not sure how to 'get' this one  
 
-**The Movie DB API Docs**
+**The Movie DB API Docs**  
 1\. Yes, I can generte a new API key when needed  
