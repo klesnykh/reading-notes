@@ -4,7 +4,8 @@
 1\. A function invocation  
 2\. One  
 3\. Last in first out principle  
-4\. ![img](./img/class10.jpg)  
+4\.  -
+![img](./img/class10.jpg)  
 5\. Basically when you have a looping function with no end, called a recursive function with no exit point  
 /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\  
 **JS error messages**  
