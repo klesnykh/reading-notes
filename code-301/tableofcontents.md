@@ -14,3 +14,4 @@
 [Class 12](https://klesnykh.github.io/reading-notes/code-301/class12)  
 [Class 13](https://klesnykh.github.io/reading-notes/code-301/class13)  
 [Class 14](https://klesnykh.github.io/reading-notes/code-301/class14)  
+[Class 15](https://klesnykh.github.io/reading-notes/code-301/class15)  
