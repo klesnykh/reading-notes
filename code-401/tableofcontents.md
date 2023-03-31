@@ -1,4 +1,5 @@
 # Code 401 Table of Contents
 
 [Prework SQL](https://klesnykh.github.io/reading-notes/code-401/prework)  
+[Growth Mindset](https://klesnykh.github.io/reading-notes/code-401/growthmindset)  
 [Class 01](https://klesnykh.github.io/reading-notes/code-401/class01)  
