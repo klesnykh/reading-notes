@@ -5,3 +5,4 @@
 [Prep: Data Structures and Algs](https://klesnykh.github.io/reading-notes/code-401/datastructures)  
 [Prep: Engineering Readings](https://klesnykh.github.io/reading-notes/code-401/engineeringprep)  
 [Class 01](https://klesnykh.github.io/reading-notes/code-401/class01)  
+[Class 02](https://klesnykh.github.io/reading-notes/code-401/class02)  
