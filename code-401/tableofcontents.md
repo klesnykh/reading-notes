@@ -6,3 +6,4 @@
 [Prep: Engineering Readings](https://klesnykh.github.io/reading-notes/code-401/engineeringprep)  
 [Class 01](https://klesnykh.github.io/reading-notes/code-401/class01)  
 [Class 02](https://klesnykh.github.io/reading-notes/code-401/class02)  
+[Class 03](https://klesnykh.github.io/reading-notes/code-401/class03)  
