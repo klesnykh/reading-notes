@@ -8,3 +8,4 @@
 [Class 02](https://klesnykh.github.io/reading-notes/code-401/class02)  
 [Class 03](https://klesnykh.github.io/reading-notes/code-401/class03)  
 [Class 04](https://klesnykh.github.io/reading-notes/code-401/class04)  
+[Class 06](https://klesnykh.github.io/reading-notes/code-401/class06)  
