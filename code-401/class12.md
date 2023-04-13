@@ -19,4 +19,4 @@
 1\. There are 7 layers of the OSI: Application layer, presentation, session, network, data link, and physical. They allow different operating systems to talk to each other and fully function with each other  
 
 **TCP Handshakes Explaines**  
-1\. client sends a syn segment which basically asks for a connection, server responds with a syn-ack which basically means the server responds with yes, but as long as you acknowledge one more time that you want to connect, and then the client responds with a ack, which is basically the acknowledgement that yes he doesn want to connect  
+1\. client sends a syn segment which basically asks for a connection, server responds with a syn-ack which basically means the server responds with yes, but as long as you acknowledge one more time that you want to connect, and then the client responds with a ack, which is basically the acknowledgement that yes he does want to connect  
